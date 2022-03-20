@@ -1,6 +1,7 @@
 # Prerequisites
 *.d
-
+RichEZ.dpro
+.gitignore
 # Compiled Object files
 *.slo
 *.lo
